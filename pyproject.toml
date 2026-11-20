@@ -1,0 +1,16 @@
+[project]
+name = "class-projects"
+version = "0.1.0"
+description = "Water potability prediction app and machine-learning project"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "imbalanced-learn>=0.14.2",
+    "joblib>=1.4.0",
+    "matplotlib>=3.11.2",
+    "numpy>=2.5.5",
+    "pandas>=3.1.1",
+    "scikit-learn>=1.9.1",
+    "seaborn>=0.13.2",
+    "streamlit>=1.67.0",
+]
